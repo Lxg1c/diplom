@@ -1,0 +1,11 @@
+.search-btn {
+    background-color: var(--green);
+    color: var(--white);
+    padding: 14px 24px;
+    max-width: 200px;
+    width: 100%;
+}
+
+.form {
+    background-color: #f0f5f7;
+}
