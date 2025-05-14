@@ -11,6 +11,7 @@ module.exports = {
                 green: 'var(--green)',
                 gray: 'var(--gray)',
                 white: 'var(--white)',
+                blue: 'var(--blue)',
             }
         },
     },
