@@ -37,16 +37,16 @@ const HeaderNav = () => {
                         <Button text="Отчеты"  active={getActivePage() === 3}/>
                     </Link>
                 </li>
-                <li>
-                    <Link href="/about">
-                        <Button text="О нас"  active={getActivePage() === 4} />
-                    </Link>
-                </li>
-                <li>
-                    <Link href="/profile">
-                        <Button text="Профиль" active={getActivePage() === 5} />
-                    </Link>
-                </li>
+                {/*<li>*/}
+                {/*    <Link href="/about">*/}
+                {/*        <Button text="О нас"  active={getActivePage() === 4} />*/}
+                {/*    </Link>*/}
+                {/*</li>*/}
+                {/*<li>*/}
+                {/*    <Link href="/profile">*/}
+                {/*        <Button text="Профиль" active={getActivePage() === 5} />*/}
+                {/*    </Link>*/}
+                {/*</li>*/}
             </ul>
         </nav>
     )
