@@ -11,10 +11,13 @@
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
+    "@yandex/ymaps3-default-ui-theme": "^0.0.19",
+    "framer-motion": "^12.11.0",
     "next": "15.3.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "sass": "^1.88.0"
+    "sass": "^1.88.0",
+    "zustand": "^5.0.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -22,6 +25,7 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@yandex/ymaps3-types": "^1.0.16477558",
     "autoprefixer": "^10.4.21",
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
